@@ -4,7 +4,7 @@ using namespace std;
  * LeetCode第一题
  * 给出一个vector和一个数字target
  * 要求返回这个vector里面相加等于
- * target的两个数字的indexm并存储在
+ * target的两个数字的index 并存储在
  * 一个新的vector里面
  *
  * 2020年2月22日
